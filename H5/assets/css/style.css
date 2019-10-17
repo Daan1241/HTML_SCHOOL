@@ -1,0 +1,74 @@
+div#wrapper {
+    margin: auto;
+    width: 1000px;
+    background-color: rgb(251, 235, 235);
+    padding: 20px;
+}
+
+body {
+    font-family: "Arial", "sans-serif";
+    line-height: 22px;
+
+}
+
+nav {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+nav a {
+    margin-right: 20px;
+}
+
+section.appels, section.visuals {
+    float: left;
+    width: 50%;
+}
+
+section.visuals {
+    text-align: right;
+
+}
+
+img.appel {
+    width: 517px;
+}
+
+img.visual {
+    width: 467px;
+    margin-bottom: 13px;
+}
+
+img.article{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 300px;
+
+}
+
+article {
+    display: inline-block;
+    width: 30%;
+    padding-right: 15px;
+    vertical-align: top;
+}
+
+article:last-child {
+    padding-right: 0px;
+
+}
+
+footer {
+    background-color: rgb(166, 166, 166);
+    margin: auto;
+    padding: 20px;
+    width: 1000px;
+    height: 100px;
+    color: white;
+
+}
+
+footer a:link, footer a:visited, footer a:hover, footer a:active {
+    color: white;
+
+}

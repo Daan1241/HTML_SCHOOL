@@ -1,0 +1,28 @@
+div#wrapper {
+    width: 1000px;
+    margin: auto;
+    background-color: white;
+    padding: 10px;
+
+}
+
+footer {
+    background-color: gray;
+
+
+}
+
+article{
+     padding: 20px;
+     width: 40%;
+    display: inline-block;
+
+
+ }
+
+aside{
+    padding: 20px;
+    width: 40%;
+    display: inline-block;
+
+}

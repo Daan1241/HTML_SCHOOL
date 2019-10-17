@@ -1,0 +1,111 @@
+body {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Century Gothic", sans-serif;
+
+}
+
+#banner {
+    width: 90%;
+    background-color: dodgerblue;
+    margin: auto;
+    text-align: left;
+
+}
+
+#title {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    color: darkblue;
+    padding: 10px;
+
+}
+
+.linktext {
+    display: inline-block;
+    margin: 10px;
+    margin-right: 50px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+
+}
+
+#wrapper {
+    width: 90%;
+    margin: auto;
+    background-color: white;
+    padding: 10px;
+}
+
+.section {
+    text-align: left;
+    border: 2px solid white;
+    width: 29%;
+    display: inline-block;
+    font-size: 150%;
+    vertical-align: top;
+    margin: 1%;
+}
+
+
+.section3 {
+    text-align: left;
+    border: 2px solid white;
+    width: 29%;
+    display: inline-block;
+    font-size: 150%;
+    vertical-align: top;
+    margin: 1%;
+    margin-top: -80px;
+}
+
+h1 {
+    margin: 0px;
+    padding: 10px;
+}
+
+#articletitle {
+    text-align: left;
+    font-size: 45px;
+    margin: 30px;
+    padding-left: 10px;
+    font-weight: bold;
+
+}
+
+
+#bottom {
+    background-color: gray;
+    height: 200px;
+    width: 100%;
+    text-align: left;
+    padding: 2%;
+    color: white;
+}
+
+.sitelinkLine {
+    width: 200px;
+    margin-left: 0px;
+    margin-top: 20px;
+
+    color: white;
+}
+
+#siteLinkContainer{
+float: left;
+
+}
+
+
+
+#siteLink {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+#copyright{
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
